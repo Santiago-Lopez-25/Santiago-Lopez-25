@@ -1,11 +1,20 @@
-## Hello! I'm Santiago
-I'm a junior/mid-senior developer that just like to code
+# Santiago López 
 
-I work on almost everything; if something looks interesting, i work on it
+Hi! I'm Santiago. I like to code for fun and to build things by myself. 
 
-# some facts about me:
-1- my first language (human language) is spanish, i learned english by myself using Duolingo an consuming english
+Learning is my principal motivation for all of my projects—I am always trying to learn something new about the world around me.
 
-2- my first language (proramming language) was python, but the first one i actually used it in was Rust
+---
 
-3- I have a beautiful dog called `Col Repollo`, he likes eating tortillas
+### [parlan](https://github.com/parlan-lang/parlan)
+
+This is by far my biggest project: my own programming language.
+
+When I started learning programming, one single question was in my head: *how do programming languages work?* So, I built one myself to find out.
+
+---
+
+### More about me
+
+* **Beyond Code:** Alongside programming, I also enjoy learning and doing some math.
+* **Col:** I have a dog named **Col** (he's the one in my profile picture). "Col" in Spanish (my native language) means "cabbage." Why did I name him cabbage? Because when he was a little puppy, he looked exactly like a tiny cabbage. Today, he has beautiful eyes that always ask me for food—even if he has just eaten!
